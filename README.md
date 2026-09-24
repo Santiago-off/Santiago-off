@@ -2,10 +2,15 @@
 
 Desarrollador full-stack y técnico en sistemas y redes. Madrid.
 
-Ahora mismo mantengo **[VoltX](https://voltx.world)**, un optimizador de Windows para gaming con
-más de 6.000 usuarios: aplicación de escritorio en C#, web con autenticación y pagos, y todo lo que
-viene detrás de tener software en máquinas ajenas — actualizaciones, incidencias y ataques
-incluidos.
+Ahora mismo llevo la parte web de **[VoltX](https://voltx.world)**, un optimizador de Windows para
+gaming con más de 7.000 usuarios. Mi parte no es el cliente de escritorio: es la web con
+autenticación y pagos, la base de datos y sus permisos, los paneles internos, la infraestructura y
+todo lo que viene detrás de tener software en máquinas ajenas — actualizaciones, incidencias y
+ataques incluidos.
+
+**VoltX en datos (sep 2026):** 7.493 usuarios · la conversión de checkout ha subido del 24 % al 46 % en tres meses · la defensa automática ha bloqueado 2.612 IPs y registrado 21.011 eventos maliciosos, con 0 disputas de fraude.
+
+Más sobre mí en **[santiago-off.github.io](https://santiago-off.github.io)**.
 
 Antes de eso he hecho encargos para clientes reales y he ido montando herramientas propias de
 seguridad y administración. Casi todo lo que hay aquí sale de una de esas dos cosas.
@@ -29,7 +34,7 @@ Cada uno lleva su arquitectura dibujada en el README, generada a partir de su pr
 
 ## Con lo que trabajo
 
-**Lenguajes** — Python, TypeScript, JavaScript, C#, Java, SQL
+**Lenguajes** — Python, TypeScript, JavaScript, Java, SQL
 
 **Web** — React, Next.js, Vite, Tailwind, Node
 
@@ -45,6 +50,7 @@ escrita a mano, porque es donde más he aprendido.
 
 ## Contacto
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/santiago-reguero-fernández-172a9530a)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/santiago-reguero-fernandez)
 [![Email](https://img.shields.io/badge/Correo-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:santiagorfernandezcv@gmail.com)
 [![VoltX](https://img.shields.io/badge/voltx.world-0A080D?style=for-the-badge&logo=windows&logoColor=FF14AC)](https://voltx.world)
+[![Web](https://img.shields.io/badge/santiago--off.github.io-1F1927?style=for-the-badge&logo=githubpages&logoColor=FF14AC)](https://santiago-off.github.io)
