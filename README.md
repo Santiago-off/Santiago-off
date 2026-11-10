@@ -8,7 +8,7 @@ autenticación y pagos, la base de datos y sus permisos, los paneles internos, l
 todo lo que viene detrás de tener software en máquinas ajenas — actualizaciones, incidencias y
 ataques incluidos.
 
-**VoltX en datos (sep 2026):** 7.493 usuarios · la conversión de checkout ha subido del 24 % al 46 % en tres meses · la defensa automática ha bloqueado 2.612 IPs y registrado 21.011 eventos maliciosos, con 0 disputas de fraude.
+**VoltX en datos (sep 2026):** 10.000 usuarios · la conversión de checkout ha subido del 24 % al 46 % en tres meses · la defensa automática ha bloqueado 2.612 IPs y registrado 21.011 eventos maliciosos, con 0 disputas de fraude.
 
 Más sobre mí en **[santiago-off.github.io](https://santiago-off.github.io)**.
 
